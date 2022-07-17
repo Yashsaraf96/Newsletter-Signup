@@ -1,2 +1,2 @@
 # Newsletter-Signup
-Newsletter signup page using the mailchim API
+Newsletter signup using the mailchimp API.
